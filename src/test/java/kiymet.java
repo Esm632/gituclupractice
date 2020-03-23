@@ -1,2 +1,3 @@
-public class kiymet {
+public class kiymet
+{
 }
