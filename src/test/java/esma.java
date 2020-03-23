@@ -1,5 +1,6 @@
 public class esma {
 
+
     public static void main(String[] args) {
        int a=3;
         int b=4;
@@ -10,4 +11,20 @@ public class esma {
             System.out.println("ali");
         }
     }
+
+    public static void main(String[] args) {
+
+        System.out.println("erhan");
+
+    }
+
+    public void reverse(){
+        String result="";
+        for(int i=0; i>=result.length()-1; i--){
+
+        }
+    }
+
+
+
 }
