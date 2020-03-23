@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c736883e-2410-439c-8539-4d0bd463bed6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="d36d17c3-643a-485d-b205-0395c06ef3f7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/src/test/java/esma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/esma.java" afterDir="false" />
     </list>
+ 
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
 
     <list default="true" id="8bd76eb5-14d9-4c16-94ee-2c0a7ca04006" name="Default Changelist" comment="">
@@ -17,6 +17,7 @@
       <change beforePath="$PROJECT_DIR$/src/test/java/ozgen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ozgen.java" afterDir="false" />
     </list>
 
+
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,8 +26,7 @@
 
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-
+  </component
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -37,6 +37,17 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZXMPrTcVR1eFfvqt2zFQiA5OGB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   <component name="GithubPullRequestsUISettings">
     <option name="hiddenUrls">
       <set>
@@ -68,6 +79,7 @@
 
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+
     <property name="project.structure.last.edited" value="Project" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -76,7 +88,6 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
-
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -90,17 +101,26 @@
     </option>
   </component>
 
+
+
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
 
+      <changelist id="d36d17c3-643a-485d-b205-0395c06ef3f7" name="Default Changelist" comment="" />
+      <created>1584980964258</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584980964258</updated>
+
+
       <changelist id="c736883e-2410-439c-8539-4d0bd463bed6" name="Default Changelist" comment="" />
       <created>1584992475928</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1584992475928</updated>
+      <updated>1584992475928</updated
     </task>
     <servers />
   </component>
@@ -109,6 +129,10 @@
       <map>
         <entry key="MAIN">
           <value>
+
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
             <State />
           </value>
         </entry>
@@ -148,5 +172,6 @@
       <screen x="0" y="0" width="1097" height="577" />
     </state>
     <state x="33" y="144" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1097.577@0.0.1097.577" timestamp="1584996790098" /
+
   </component>
 </project>
