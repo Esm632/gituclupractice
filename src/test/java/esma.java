@@ -1,6 +1,8 @@
 public class esma {
 
     public static void main(String[] args) {
-        System.out.println("asli");
+        asli=32;
+        System.out.println(asli);
+        
     }
 }
