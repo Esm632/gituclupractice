@@ -2,15 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8bd76eb5-14d9-4c16-94ee-2c0a7ca04006" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gituclupractice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/gituclupractice.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ozgen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ozgen.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/Esm632/gituclupractice.git" />
+      </set>
+    </option>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -33,6 +53,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -52,6 +73,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="398" y="178" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1584987475263">
+      <screen x="0" y="0" width="1097" height="577" />
+    </state>
+    <state x="398" y="178" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1097.577@0.0.1097.577" timestamp="1584987475263" />
     <state x="329" y="44" key="FileChooserDialogImpl" timestamp="1584981851510">
       <screen x="0" y="0" width="1097" height="577" />
     </state>
@@ -64,9 +89,13 @@
       <screen x="0" y="0" width="1097" height="577" />
     </state>
     <state x="206" y="125" width="672" height="677" key="run.anything.popup/0.0.1097.577@0.0.1097.577" timestamp="1584981983332" />
-    <state x="211" y="0" width="672" height="575" key="search.everywhere.popup" timestamp="1584981991220">
+    <state x="211" y="0" width="672" height="575" key="search.everywhere.popup" timestamp="1584982043331">
       <screen x="0" y="0" width="1097" height="577" />
     </state>
-    <state x="211" y="0" width="672" height="575" key="search.everywhere.popup/0.0.1097.577@0.0.1097.577" timestamp="1584981991220" />
+    <state x="211" y="0" width="672" height="575" key="search.everywhere.popup/0.0.1097.577@0.0.1097.577" timestamp="1584982043331" />
+    <state x="33" y="144" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1584996790098">
+      <screen x="0" y="0" width="1097" height="577" />
+    </state>
+    <state x="33" y="144" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1097.577@0.0.1097.577" timestamp="1584996790098" />
   </component>
 </project>
