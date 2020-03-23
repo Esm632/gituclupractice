@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZXMPrTcVR1eFfvqt2zFQiA5OGB" />
   <component name="PropertiesComponent">
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="329" y="44" key="FileChooserDialogImpl" timestamp="1584981851510">
+      <screen x="0" y="0" width="1097" height="577" />
+    </state>
+    <state x="329" y="44" key="FileChooserDialogImpl/0.0.1097.577@0.0.1097.577" timestamp="1584981851510" />
+    <state x="29" y="0" key="SettingsEditor" timestamp="1584981834854">
+      <screen x="0" y="0" width="1097" height="577" />
+    </state>
+    <state x="29" y="0" key="SettingsEditor/0.0.1097.577@0.0.1097.577" timestamp="1584981834854" />
+    <state x="211" y="-1" width="672" height="678" key="search.everywhere.popup" timestamp="1584981843564">
+      <screen x="0" y="0" width="1097" height="577" />
+    </state>
+    <state x="211" y="-1" width="672" height="678" key="search.everywhere.popup/0.0.1097.577@0.0.1097.577" timestamp="1584981843564" />
   </component>
 </project>
